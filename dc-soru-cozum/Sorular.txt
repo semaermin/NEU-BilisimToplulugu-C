@@ -1,0 +1,5 @@
+- SORU 1 -
+Fibonacci dizisini pointerlar yardımı ile oluşturunuz.
+
+- SORU 2 -
+Bir cümlenin içerisinde aranan kelimenin kaç tane olduğunu bulan algoritmayı yazınız.

@@ -1,0 +1,11 @@
+1- Klavyeden girilen sayıların aritmetik ortalamasını bulan ve ekrana kodu yazınız.
+
+2- Klavyeden tamsayılar girilmektedir. Sayı girişi sonu, sıfır girişi ile belirtilmektedir. Tek ve çift sayıların kaçar tane olduğunu
+hesaplayan bir program yazınız.
+
+3- Ardarda girilen iki sayının çarpımı ve toplamı birbirine eşit olmadığı sürece sürekli sayı alan ve bu sayıların çarpım ve toplamlarını yazdıran kodu yazınız.
+
+4- N tane kişiye bir toplumsal konudaki eğilimlerini belirlemek üzere 1 tane soru sorulmuştur. Kişiler sorulara 1 ile 5 arasında cevaplar
+vermişlerdir. Ankette her soru için OLUMLU görüşünü bildirmek isteyenler 1, TARAFSIZ görüşte olanlar 2, OLUMSUZ diyenler 3 kodlamışlardır. Her soru için cevapların yüzdelerini tablolayan bir program yazınız.
+
+5- Para çekmek için bankamatiğe giden birisi parasını 20,10 veya 5₺'lik banknotlar şeklinde alabilmektedir. Çekilmek istenen değer ise 5'in katları şeklinde olmalıdır. Klavyeye girilen değerin, kişiye en az kaç banknot şeklinde verilebileceğini ekrana yazdıran bir program yazınız.

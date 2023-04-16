@@ -1,0 +1,7 @@
+Soru - 1
+
+a ile b tamsayılarının, bir fonksiyonda toplamını ve mutlak farkını return değeri olmadan yazdırın.
+
+Soru - 2
+
+a,b,c sayılarının adreslerini kullanarak sayıların yerlerini değiştirin
